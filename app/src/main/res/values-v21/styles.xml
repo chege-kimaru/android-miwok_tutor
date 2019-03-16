@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MiwokAppBarStyle" parent="style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <!--Remove the shadow below the app bar-->
+        <item name="android:elevation">0dp</item>
+
+    </style>
+</resources>
